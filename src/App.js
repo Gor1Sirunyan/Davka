@@ -9,6 +9,8 @@ function App() {
   <header className="App-header">
     <h2>ista small </h2>
     <h2>ista small </h2>
+    <h2>ista small </h2>
+    <h2> sirunyan </h2>
    <Home/>
     <a
       className="App-link"
