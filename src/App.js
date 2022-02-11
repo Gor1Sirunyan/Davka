@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
+import { Home } from './Home';
 function App() {
   let [state, setstate] = useState()
   return (
@@ -8,10 +9,7 @@ function App() {
   <header className="App-header">
     <h2>ista small </h2>
     <h2>ista small </h2>
-    <h2>ista small </h2>
-    <p>
-      Edit <code>src/App.js</code> and save to reload.
-    </p>
+   <Home/>
     <a
       className="App-link"
       href="https://reactjs.org"
