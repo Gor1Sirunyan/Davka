@@ -7,6 +7,8 @@ function App() {
     <div className="App">
   <header className="App-header">
     <h2>ista small </h2>
+    <h2>ista small </h2>
+    <h2>ista small </h2>
     <p>
       Edit <code>src/App.js</code> and save to reload.
     </p>
